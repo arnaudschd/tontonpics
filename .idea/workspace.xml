@@ -2,77 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc2353ce-49f7-4dbf-bc59-dd8e6c05bb06" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/events.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/ripple1_hpnz2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/ripple1_hpnz3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/ripple1_jokaz1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/ripple1_roytek1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/ripple1_spacegoat1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/ripple1_spacegoat2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/ripple1_williamluck1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/ripple2_errai1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/ripple2_errai2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/ripple2_errai3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/ripple2_gtk1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/ripple2_gtk2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/ripple2_gtk3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/ripple2_hpnz1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/ripple2_hpnz2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/ripple2_hpnz3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/ripple2_ldst2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/ripple2_ldst3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/ripple2_roytek2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/ripple2_roytek3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/ripple2_williamluck1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/ripple2_williamluck2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/ripple2_williamluck3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/thumbnail/ripple1_hpnz2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/thumbnail/ripple1_hpnz3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/thumbnail/ripple1_jokaz1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/thumbnail/ripple1_roytek1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/thumbnail/ripple1_spacegoat1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/thumbnail/ripple1_spacegoat2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/thumbnail/ripple1_williamluck1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/thumbnail/ripple2_errai1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/thumbnail/ripple2_errai2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/thumbnail/ripple2_errai3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/thumbnail/ripple2_gtk1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/thumbnail/ripple2_gtk2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/thumbnail/ripple2_gtk3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/thumbnail/ripple2_hpnz1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/thumbnail/ripple2_hpnz2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/thumbnail/ripple2_hpnz3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/thumbnail/ripple2_ldst2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/thumbnail/ripple2_ldst3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/thumbnail/ripple2_roytek2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/thumbnail/ripple2_roytek3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/thumbnail/ripple2_williamluck1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/thumbnail/ripple2_williamluck2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/events/thumbnail/ripple2_williamluck3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/streetPortraits/asdek1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/streetPortraits/asdek1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/streetPortraits/asdek2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/streetPortraits/asdek2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/streetPortraits/asdek3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/streetPortraits/asdek3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/streetPortraits/will1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/streetPortraits/will1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/streetPortraits/will2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/streetPortraits/will2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/streetPortraits/will3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/streetPortraits/will3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/streetPortraits/will4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/streetPortraits/will4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/studioPortraits/AC1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/studioPortraits/AC1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/studioPortraits/AC2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/studioPortraits/AC2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/studioPortraits/AC3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/studioPortraits/AC3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/studioPortraits/AC4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/studioPortraits/AC4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/studioPortraits/AC5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/studioPortraits/AC5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/studioPortraits/AC6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/studioPortraits/AC6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/studioPortraits/AC7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/studioPortraits/AC7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/studioPortraits/lea1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/studioPortraits/lea1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/studioPortraits/lea2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/studioPortraits/lea2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/studioPortraits/lea3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/studioPortraits/lea3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/studioPortraits/lea4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/studioPortraits/lea4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/studioPortraits/lea5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/studioPortraits/lea5.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studioPortraits.html" beforeDir="false" afterPath="$PROJECT_DIR$/studioPortraits.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +65,7 @@
       <workItem from="1632952110434" duration="1841000" />
       <workItem from="1632958591709" duration="314000" />
       <workItem from="1632994893775" duration="1000" />
-      <workItem from="1633273802310" duration="8000" />
+      <workItem from="1633273802310" duration="432000" />
     </task>
     <servers />
   </component>
