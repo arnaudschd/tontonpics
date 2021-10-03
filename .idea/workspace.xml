@@ -3,20 +3,21 @@
   <component name="ChangeListManager">
     <list default="true" id="bc2353ce-49f7-4dbf-bc59-dd8e6c05bb06" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/product/azzaro_chrome1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/product/azzaro_chrome1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/product/azzaro_chrome2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/product/azzaro_chrome2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/product/azzaro_chrome3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/product/azzaro_chrome3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/product/thumbnail/airmax96_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/product/thumbnail/azarro_chrome2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/product/thumbnail/azzaro_chrome1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/product/thumbnail/azzaro_chrome3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/product/thumbnail/versace_eros1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/product/thumbnail/versace_eros2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/product/thumbnail/versace_eros3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/product/versace_eros1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/product/versace_eros1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/product/versace_eros2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/product/versace_eros2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/product/versace_eros3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/product/versace_eros3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/product.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/streetPortraits/asdek1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/streetPortraits/asdek1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/streetPortraits/asdek2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/streetPortraits/asdek2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/streetPortraits/asdek3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/streetPortraits/asdek3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/streetPortraits/thumbnail/asdek1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/streetPortraits/thumbnail/asdek2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/streetPortraits/thumbnail/asdek3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/streetPortraits/thumbnail/will1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/streetPortraits/thumbnail/will2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/streetPortraits/thumbnail/will3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/streetPortraits/thumbnail/will4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/streetPortraits/will1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/streetPortraits/will1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/streetPortraits/will2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/streetPortraits/will2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/streetPortraits/will3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/streetPortraits/will3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/streetPortraits/will4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/streetPortraits/will4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/streetPortraits.html" beforeDir="false" afterPath="$PROJECT_DIR$/streetPortraits.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +80,7 @@
       <workItem from="1632952110434" duration="1841000" />
       <workItem from="1632958591709" duration="314000" />
       <workItem from="1632994893775" duration="1000" />
-      <workItem from="1633273802310" duration="851000" />
+      <workItem from="1633273802310" duration="1116000" />
     </task>
     <servers />
   </component>
