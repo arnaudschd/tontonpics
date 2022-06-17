@@ -3,13 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bc2353ce-49f7-4dbf-bc59-dd8e6c05bb06" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/events.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/product.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/streetPortraits.html" beforeDir="false" afterPath="$PROJECT_DIR$/streetPortraits.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studioPortraits.html" beforeDir="false" afterPath="$PROJECT_DIR$/studioPortraits.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,11 +39,11 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/events" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/images/streetPortraits" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/images/studioPortraits" />
-      <recent name="$PROJECT_DIR$/images/product" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -74,7 +68,10 @@
       <workItem from="1632994893775" duration="1000" />
       <workItem from="1633273802310" duration="3126000" />
       <workItem from="1633428248389" duration="411000" />
-      <workItem from="1635501236221" duration="79000" />
+      <workItem from="1635501236221" duration="387000" />
+      <workItem from="1641128654405" duration="1500000" />
+      <workItem from="1641221713300" duration="2217000" />
+      <workItem from="1655475683060" duration="1805000" />
     </task>
     <servers />
   </component>
